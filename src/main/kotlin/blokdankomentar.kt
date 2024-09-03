@@ -4,4 +4,7 @@ fun main(args: Array<String>) {
     /*
     contoh komentar multi baris
      */
+    /**
+     * kotlin Doc--> baris ini untuk mendokumentasikan kode program
+     */
 }
