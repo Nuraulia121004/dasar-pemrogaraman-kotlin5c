@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6883c9b8-4f4e-4f65-88c6-a62b28a478eb" name="Changes" comment="whitespace">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/blokdankomentar.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6883c9b8-4f4e-4f65-88c6-a62b28a478eb" name="Changes" comment="Blok dan Komentar">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/variabel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +42,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.BlokdankomentarKt">
+  <component name="RunManager" selected="Kotlin.VariabelKt">
     <configuration name="BlokdankomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdankomentarKt" />
       <module name="DasarPemrogaramanKotlin5C" />
@@ -58,15 +57,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainAppKt" />
+    <configuration name="TugasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TugasKt" />
       <module name="DasarPemrogaramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TugasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TugasKt" />
+    <configuration name="VariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VariabelKt" />
       <module name="DasarPemrogaramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.BlokdankomentarKt" />
         <item itemvalue="Kotlin.WhitespaceKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.TugasKt" />
-        <item itemvalue="Kotlin.MainAppKt" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +132,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725340318731</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Blok dan Komentar">
+      <created>1725340732239</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725340732239</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Blok dan Komentar">
+      <created>1725340871976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725340871976</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +164,7 @@
     <MESSAGE value="Satater project" />
     <MESSAGE value="Literal" />
     <MESSAGE value="whitespace" />
-    <option name="LAST_COMMIT_MESSAGE" value="whitespace" />
+    <MESSAGE value="Blok dan Komentar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blok dan Komentar" />
   </component>
 </project>
