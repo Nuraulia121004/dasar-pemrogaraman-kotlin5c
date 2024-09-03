@@ -44,7 +44,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.LiteralKt">
+  <component name="RunManager" selected="Kotlin.WhitespaceKt">
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="DasarPemrogaramanKotlin5C" />
@@ -66,8 +66,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WhitespaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhitespaceKt" />
+      <module name="DasarPemrogaramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.WhitespaceKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.TugasKt" />
         <item itemvalue="Kotlin.MainAppKt" />
