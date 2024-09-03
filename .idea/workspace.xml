@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6883c9b8-4f4e-4f65-88c6-a62b28a478eb" name="Changes" comment="Satater project">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Literal.kt" afterDir="false" />
+    <list default="true" id="6883c9b8-4f4e-4f65-88c6-a62b28a478eb" name="Changes" comment="whitespace">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/blokdankomentar.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MainApp.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/MainApp.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,14 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.WhitespaceKt">
+  <component name="RunManager" selected="Kotlin.BlokdankomentarKt">
+    <configuration name="BlokdankomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlokdankomentarKt" />
+      <module name="DasarPemrogaramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="DasarPemrogaramanKotlin5C" />
@@ -75,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BlokdankomentarKt" />
         <item itemvalue="Kotlin.WhitespaceKt" />
         <item itemvalue="Kotlin.LiteralKt" />
         <item itemvalue="Kotlin.TugasKt" />
@@ -112,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725338518719</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Literal">
+      <created>1725340087970</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725340087970</updated>
+    </task>
+    <task id="LOCAL-00005" summary="whitespace">
+      <created>1725340318731</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725340318731</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +149,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Satater project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Satater project" />
+    <MESSAGE value="Literal" />
+    <MESSAGE value="whitespace" />
+    <option name="LAST_COMMIT_MESSAGE" value="whitespace" />
   </component>
 </project>
