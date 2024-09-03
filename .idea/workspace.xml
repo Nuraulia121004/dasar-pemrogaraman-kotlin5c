@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6883c9b8-4f4e-4f65-88c6-a62b28a478eb" name="Changes" comment="Konversi eksplisit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Character.kt" afterDir="false" />
+    <list default="true" id="6883c9b8-4f4e-4f65-88c6-a62b28a478eb" name="Changes" comment="Character">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penerapanKonversiEksplisitPadaChar.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.CharacterKt">
+  <component name="RunManager" selected="Kotlin.PenerapanKonversiEksplisitPadaCharKt">
     <configuration name="CharacterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CharacterKt" />
       <module name="DasarPemrogaramanKotlin5C" />
@@ -50,15 +50,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
+    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
       <module name="DasarPemrogaramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
+    <configuration name="PenerapanKonversiEksplisitPadaCharKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PenerapanKonversiEksplisitPadaCharKt" />
       <module name="DasarPemrogaramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PenerapanKonversiEksplisitPadaCharKt" />
         <item itemvalue="Kotlin.CharacterKt" />
         <item itemvalue="Kotlin.KonversiEksplisitKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreLiteralKt" />
-        <item itemvalue="Kotlin.ConstantsLiteralKt" />
       </list>
     </recent_temporary>
   </component>
@@ -202,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725347709165</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Character">
+      <created>1725348025712</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725348025712</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +235,7 @@
     <MESSAGE value="Constants literal" />
     <MESSAGE value="Underscore Literal" />
     <MESSAGE value="Konversi eksplisit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Konversi eksplisit" />
+    <MESSAGE value="Character" />
+    <option name="LAST_COMMIT_MESSAGE" value="Character" />
   </component>
 </project>
