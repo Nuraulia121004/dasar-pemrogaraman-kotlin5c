@@ -42,7 +42,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.TipedataKt">
+  <component name="RunManager" selected="Kotlin.TipedatadesimalKt">
     <configuration name="BlokdankomentarKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlokdankomentarKt" />
       <module name="DasarPemrogaramanKotlin5C" />
@@ -52,6 +52,13 @@
     </configuration>
     <configuration name="TipedataKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TipedataKt" />
+      <module name="DasarPemrogaramanKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TipedatadesimalKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipedatadesimalKt" />
       <module name="DasarPemrogaramanKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhitespaceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhitespaceKt" />
-      <module name="DasarPemrogaramanKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.TipedatadesimalKt" />
         <item itemvalue="Kotlin.TipedataKt" />
         <item itemvalue="Kotlin.VarvsValKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.BlokdankomentarKt" />
-        <item itemvalue="Kotlin.WhitespaceKt" />
       </list>
     </recent_temporary>
   </component>
